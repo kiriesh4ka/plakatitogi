@@ -1,0 +1,12 @@
+body{
+    margin: 0;
+    padding: 0;
+    height: 100%;
+}
+body {
+    background-image: url(img/плакат.png); 
+    background-size: contain;   
+    background-position: center; 
+    background-repeat: no-repeat;
+    background-attachment: fixed; 
+}
